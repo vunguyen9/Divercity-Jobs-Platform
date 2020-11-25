@@ -1,0 +1,6 @@
+export const SIGN_IN = 'SIGN_IN'
+export const SIGN_IN_WITH_GOOGLE = 'SIGN_IN_WITH_GOOGLE'
+export const SIGN_OUT = 'SIGN_OUT'
+export const CREATE_ACCOUNT = 'CREATE_ACCOUNT'
+export const FETCH_JOBS = 'FETCH_JOBS'
+export const FETCH_JOB = 'FETCH_JOB'
